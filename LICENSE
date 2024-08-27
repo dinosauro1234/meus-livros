@@ -1,21 +1,28 @@
-MIT License
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Meus Livros</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <img src="logo2A.svg" alt="logo da turma do segunda ano A" class="cabecalho__imagem">
+        <p class="cabecalho__texto"> Segundo Ano A</p>
+        <ul class="cabecalho__menu">
+            <li class="cabecalho_menu-item">Categorias</li>
+            <li class="cabecalho_menu-item">Favoritos</li>
+            <li class="cabecalho_menu-item">Minhas Séries</li> 
+        </ul>
+          <p class="cabecalho__texto2">Meu perfil</p>
+    </header>
+    <main class="principal">
 
-Copyright (c) 2024 dinosauro1234
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+    </main>
+    <footer class="rodape">
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+    </footer>
+</body>
+</html>
